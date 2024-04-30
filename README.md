@@ -33,7 +33,7 @@ Write-Output "caniuse.exe downloaded and path updated successfully."
 ```
 
 **Usage:**
-You should now be able to use the executable you can test it by running:
+Restart your shell and you should now be able to use the executable you can test it by running:
 ```shell
 caniuse -V
 ```
