@@ -2,6 +2,8 @@
 Binary applications used for internal distribution. Most will require being within the internal network to actually work.
 
 ## caniuse
+Checks if an IP address is in use. Since it pings an internal server that is hard wired to the network it allows you to detect an ip address is in use even if it doesnt have a gateway assigned.
+
 **Installation:** 
 
 Copy the following script and paste into an administrator powershell then press `enter`.
